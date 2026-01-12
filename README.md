@@ -1,7 +1,3 @@
-Here’s a clean, polished **README.md** you can drop straight into the repo. It’s written like a serious experimental / research-grade project, not a toy.
-
----
-
 # 🧠 **PsyVoxel – Gesture-Driven Voxel Architect**
 
 **PsyVoxel** is a real-time, gesture-controlled 3D voxel construction environment powered by computer vision and WebGL. Using only your hands and a webcam, you can **build, erase, grab, rotate, and reset** voxel structures in 3D space—no controllers, no mouse, no keyboard.
